@@ -10,7 +10,7 @@ This project allows you to get the token in `Authorization` HTTP request header 
     You can find token in this project and add your own code to handle the token
 
 * AspNetCore.Authentication.Token.WebApiDemo  
-    this is demo WebApi project uses token authentication you can find samples on how to authorize in the [ValuesController](./AspNetCore.Authentication.Token.WebApiDemo/Controllers/ValuesController.cs)
+    This is a demo WebApi project uses token authentication you can find samples on how to authorize in the [ValuesController](./AspNetCore.Authentication.Token.WebApiDemo/Controllers/ValuesController.cs)
 
 ## Last Update
 `2017.06.29`
